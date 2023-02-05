@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Combine Excel Files</title>
+  </head>
+  <body>
+    <form action="/process" method="post" enctype="multipart/form-data">
+      <p>Manufacture:
+        <select name="mfg">
+          {% for mfg in mfg_list %}
+            <option value="{{ mfg }}">{{ mfg }}</option>
+          {% endfor %}
+        </select>
+      </
