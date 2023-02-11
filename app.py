@@ -8,6 +8,10 @@ import configparser
 import os
 import time
 
+# if os.environ.get('DISPLAY','') == '':
+#     print('no display found. Using :0.0')
+#     os.environ.__setitem__('DISPLAY', ':0.0')
+
 timestamp = time.strftime("%Y%m%d-%H%M%S")
 
 config = configparser.ConfigParser()
