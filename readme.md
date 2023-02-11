@@ -22,6 +22,9 @@ old examples
 # cd /home/jerry/develop/createRecipeWebpage
 
 # push to dockerhub
+
+
+
 # docker build --tag createrecipewebpage .
 # If you want to test locally
        # docker run --name createrecipewebpage -p 5001:5001 createrecipewebpage
