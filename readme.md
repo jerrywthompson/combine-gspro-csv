@@ -2,6 +2,11 @@ sudo chmod 666 /var/run/docker.sock
 
 docker build --tag docker-python-app .
 
+docker tag docker-python-app:latest jerrywthompson/docker-python-app:latest
+docker push jerrywthompson/docker-python-app:latest
+
+
+
 docker run --name docker-python-app -it --rm --net=host docker-python-app
 
 not working command yet
