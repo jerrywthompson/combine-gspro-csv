@@ -11,6 +11,7 @@ RUN : \
     && apt-get update \
     && pip install pandas \
     && pip install configparser \
+    && pip x11-xserver-utils \
     && mkdir -p /etc/sudoers.d \
     && apt-get clean
 #    && rm -rf /var/lib/apt/lists/* \

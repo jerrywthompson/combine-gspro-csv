@@ -42,7 +42,7 @@ def writeHeader():
     return
 
 
-def writeOutput():
+def writeOutputCSVFile():
     global activeOutputFile
 
     data = output_file_data
@@ -153,7 +153,7 @@ def process_files():
     global timestamp
 
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    results_text_box.delete("insert", tk.END)
+    results_text_box.delete("1.0", tk.END)
     createArchiveDir()
     archiveDBFile()
     archiveCSVFile()
@@ -179,9 +179,10 @@ def process_files():
                 row.insert(0, mfgName)
                 output_file_data = row
 
-                writeOutput()
+                writeOutputCSVFile()
             ctr += 1
 
+    create_db()
     archiveRawFile(inputFilepath)
     results_text_box.insert("insert", f'{ctr} row added to the file\n\nScript successfully completed')
     print('done')

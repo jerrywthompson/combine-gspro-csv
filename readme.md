@@ -1,9 +1,10 @@
 sudo chmod 666 /var/run/docker.sock
 
-docker build --tag docker-python-app .
+docker build --tag combine-gspro-csv .
 
-docker tag docker-python-app:latest jerrywthompson/docker-python-app:latest
-docker push jerrywthompson/docker-python-app:latest
+docker tag combine-gspro-csv:latest jt75611/combine-gspro-csv:latest
+
+docker push jt75611/combine-gspro-csv:latest
 
 
 
