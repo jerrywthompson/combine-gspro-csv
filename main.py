@@ -1,8 +1,7 @@
 import tkinter as tk
 import pandas as pd
 import sqlite3
-from tkinter import filedialog, OptionMenu, messagebox
-from tkinter import ttk
+from tkinter import ttk, filedialog, OptionMenu, messagebox
 import csv
 import configparser
 import os
