@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="SHOW_STRUCTURE" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2916158a-95e6-4a42-8980-3ec739effbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/database.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GSProCombinedFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GSProCombinedFile.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/createDb.py" beforeDir="false" afterPath="$PROJECT_DIR$/createDb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/GSProCombinedFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/GSProCombinedFile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/GSProCombinedFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/GSProCombinedFile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/combineGSProCSVFiles_CLASS/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/data/user/Family/Jerry/Golf Exports/combineGSProCSV/combineGSProCSVFiles_CLASS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/data/user/Family/Jerry/Golf Exports/combineGSProCSV/combineGSProCSVFiles_CLASS",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/combineGSProCSVFiles_CLASS" />
@@ -216,22 +228,22 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/combineGSProCSVFiles_CLASS/controller.py</url>
-          <line>118</line>
+          <line>101</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/combineGSProCSVFiles_CLASS/model.py</url>
-          <line>153</line>
+          <line>137</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/combineGSProCSVFiles_CLASS/model.py</url>
-          <line>94</line>
+          <line>93</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/combineGSProCSVFiles_CLASS/model.py</url>
-          <line>137</line>
+          <line>126</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
