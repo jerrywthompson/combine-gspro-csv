@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/Class test/sampe.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/GSProCombinedFile.csv">
           <value>
             <Attribute>
@@ -17,490 +10,2261 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/Golf files/gspro-export01-28-23-10-21-20ALL BAD hits 7 OneIron Hex Tour.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-12-08-01-7i-One_Iron-Callaway_hex_Tour v3 .csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230204-211941.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230204-212728.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-28-00-7i-One_Iron-Srixon_SoftFeel.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230204-213827.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-50-39-7i-One_Iron-kirkland.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230204-214243.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-59-17-7i-One_Iron-Bridgestone_Lady.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230204-214546.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-16-42-14-7i-PGXOL-Maxifli_SoftFli.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230204-215236.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-19-31-41-7i-pgxol-Callaway_supersoft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230204-215721.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-19-37-09-7i-pgxol-wilson_duo_soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230212-150644.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-19-59-42-7i-pgxol-vice_tour.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230212-151300.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-20-07-57-7i-Cobra-Callaway_hex_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230212-152130.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export01-29-23-19-30-16-PW PGXOL-Callaway_Hex_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230212-152303.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-29-41-6i-One_Iron-Vice_Pro_soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230212-152317.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-35-50-6i-PGXOL-Vice_Pro_soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/csv_files/GSProCombinedFile_20230212-152404.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-41-31-PW-PGXOL-Vice_Pro_soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-10-06-03-7 OneIron Titlist pro1vx RCT.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-45-34-PW-PGXOL-Maxifli_Softfli.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-11-55-11-7i- One Iron- HexTour.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-51-08-PW-PGXOL-Callaway_SuperSoft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-11-55-11-7i- One Iron- HexTourv2.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_RCT.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-12-02-57-7i-One Iron Maxfli SoftFli.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-03-05-5i-One_Iron-Callaway_Hex_Tour.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-12-08-01-7i-OneIron-hex Tour v3 .csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-11-29-5i-pgxOL-Callaway_hex_Tour.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-14-11-05 7i-OneIron SuperSoft.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-17-29-5i-pgxOL-Maxifli_softfli.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-14-17-36-7i OneIron Vice Tour.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-23-24-pgxOL-5i-Callaway_Hex_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-14-22-18-7i-One Iron Vice Pro.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-17-57-22-pgxOL-3i-Callaway_Reva.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-14-28-00-7i-OneIron-Sirxon SoftFeel.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-18-08-54-PGXOL-4I-Maxifli_Softfli.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-14-33-24-7i-One Iron -Spectra Pink.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-18-41-53-PGXOL-$I-Maxifli_Softfli.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-14-50-39-7i-Onr Iron-kirkland.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-18-48-45-PGXOL-4I-Callaway_Reva.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-14-59-17-7i-One Iron-Bridgestone Lady.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-08-23-19-53-56-PGXOL-PW-Maxifli_Softfli.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-16-17-54- 7i PGX-OL-Bridgestone B6.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-08-23-20-23-56-Giga_Golf -7I-MaxiFli_SoftFli_pink.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-16-29-35-7i PGX OL - Titleist Provx1.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-08-23-20-30-39-Giga_Golf - 5I-Maxifli_SoftFLI_pink- .csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-16-42-14-7i-PGXOL-Maxifli SoftFli.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-17-56-42-Giga_Golf-7I-Titlelist_Prov1_RCT.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-19-31-41-7i-pgxol-supersoft.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-18-04-30-PGXOL-&amp;I-Titlelist_Prov1_rct.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-19-37-09-7i-pgx-wilson soft.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-19-58-18-PGXOL-7I-Maxifli_Softfli_pink.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-19-46-09-7i pgxol-bridgestone b12.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-20-07-54-Giga_Golf - 6I-Maxifli_Softfli_pink.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-19-59-42-7i-pgxol-vice tour.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-20-16-01-PGXOL-6I-Titlelist_Prov1_rct.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-20-07-57-7i-Cobra-hex Soft.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-18-59-46-PGXOL-PW-Callaway_Hex_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-28-23-9-53-41-OneIron - 7iron HexSoft .csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-19-12-23-PGXOL-4I-Callaway_Hex_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export01-29-23-19-30-16-PW PGX-Hex Soft.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-19-18-50-PGXOL-4i-Vice_Pro_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-01-23-18-29-41-6i-One Iron-Vice Pro.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-19-24-24-PGXOL-4I-Maxifli_SoftFli.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-01-23-18-35-50-6i-PGXOL-Vice Pro.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-03-20-Cobra- 6I- Callaway_Hex_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-01-23-18-41-31-PW-PGX-Vice Pro.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-08-30-COBRa-9I-Callaway_SuperSoft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-01-23-18-45-34-PW-PGXOL-Mxifli Sofli.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-13-43-Cobra -6I-Callaway_SuperSoft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-01-23-18-51-08-PW-PGXOL-SuperSoft.csv">
+        <entry key="/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-17-29-PGXOL-6I-Callaway_Supersoft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-01-23-18-57-28-PW-PGXOL-TitlistProv1x.csv">
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-09-53-41-One_Iron - 7iron Callaway_Hex_Soft .csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-01-23-19-11-49-GW-PGXOL-Bridgstone e6.csv">
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-09-53-41-One_Iron - 7iron- Callaway_Hex_Soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/archives/raw_files/gspro-export02-03-23-17-03-05-5i-One Iron-Hex Tour.csv">
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-09-53-41-One_Iron - 7iron- Callaway_Hex_soft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/GSProCombinedFile.csv">
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-10-06-03-7 One_Iron - Titlelist_prov1x_RCT.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-091542.csv">
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-10-06-03-7 One_Iron Titlelist_prov1x_RCT.csv">
           <value>
             <Attribute>
-              <option name="separator" value=";" />
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-10-06-03-7 One_Iron-Titlelist_prov1x_RCT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-11-55-11-7i- One_Iron- Callaway_Hex_Tour.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-11-55-11-7i- One_Iron- Callaway_Hex_Tourv2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-11-55-11-7i- One_Iron-Callaway_Hex_Tourv2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-12-02-57-7i-One_Iron Maxifli_SoftFli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-12-02-57-7i-One_Iron-Maxifli_SoftFli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-12-08-01-7i-One_Iron-Callaway_Hex_Tour v3 .csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-12-08-01-7i-One_Iron-Callaway_hex_Tour v3 .csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-11-05 7i-One_Iron Callaway_SuperSoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-11-05 7i-One_Iron-Callaway_SuperSoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.bad.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-22-18-7i-One_Iron-Vice_Pro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-22-18-7i-One_Iron-Vice_Pro_soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-28-00-7i-One_Iron-Srixon_SoftFeel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-28-00-7i-One_Iron-Srixon_SoftFeelxxxx.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-33-24-7i-One_Iron - Spectra_Pink.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-33-24-7i-One_Iron -Spectra_Pink.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-33-24-7i-One_Iron-Spectra_Pink.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-50-39-7i-One_Iron-kirkland.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-14-59-17-7i-One_Iron-Bridgestone_Lady.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-16-17-54- 7i PGXOL-Bridgestone_e6.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-16-29-35-7i PGXOL - Titlelist_Prov1x_RCT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-16-29-35-7i PGXOL - Titlelist_Prov1x_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-16-42-14-7i-PGXOL-Maxifli_SoftFli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-19-31-41-7i-PGXOL-Callaway_supersoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-19-31-41-7i-pgxol-Callaway_supersoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-19-37-09-7i-PGXOL-wilson_duo_soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-19-37-09-7i-pgxol-wilson_duo_soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-19-46-09-7i PGXOL-bridgestone_e12.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-19-46-09-7i pgxol-bridgestone_e12.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-19-59-42-7i-pgxol-vice_tour.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-28-23-20-07-57-7i-Cobra-Callaway_hex_Soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export01-29-23-19-30-16-PW PGXOL-Callaway_Hex_Soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-29-41-6i-One_Iron-Vice_Pro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-29-41-6i-One_Iron-Vice_Pro_soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-35-50-6i-PGXOL-Vice_Pro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-35-50-6i-PGXOL-Vice_Pro_soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-41-31-PW-PGXOL-Vice_Pro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-41-31-PW-PGXOL-Vice_Pro_soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-45-34-PW-PGXOL-Maxifli_Softfli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-51-08-PW-PGXOL-Callaway_SuperSoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_RCT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-01-23-19-11-49-GW-PGXOL-Bridgestone_e6.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-03-23-17-03-05-5i-One_Iron-Callaway_Hex_Tour.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-03-23-17-11-29-5i-pgxOL-Callaway_hex_Tour.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-03-23-17-17-29-5i-pgxOL-Maxifli_softfli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-03-23-17-23-24-pgxOL-5i-Callaway_Hex_Soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-05-23-17-57-22-pgxOL-3i-Callaway_Reva.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-05-23-17-57-22-pgxol-3i-Callaway_Reva.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-05-23-18-08-54-PGXOL-4I-Maxifli_Softfli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-05-23-18-41-53-PGXOL-$I-Maxifli_Softfli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-05-23-18-48-45-PGXOL-4I-Callaway_Reva.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-08-23-19-53-56-PGXOL-PW-Maxifli_Softfli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-08-23-20-23-56-Giga_Golf -7I-MaxiFli_SoftFli_pink.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-08-23-20-30-39-Giga_Golf - 5I-Maxifli_SoftFLI_pink- .csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-08-23-20-30-39Giga_Golf - 5I-Maxifli_SoftFLI_pink.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-17-56-42-Giga_Golf-7I-Titlelist_Prov1_RCT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-17-56-42-Giga_Golf-7I-Titlelist_Prov1x_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-18-04-30-PGXOL-&amp;I-Titlelist_Prov1_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-18-04-30-PGXOL-&amp;I-Titlelist_Prov1x_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-19-58-18-PGXOL-7I-Maxifli_Softfli_pink.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-20-07-54-Giga_Golf - 6I-Maxifli_Softfli_pink.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-20-16-01-PGXOL-6I-Titlelist_Prov1_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-09-23-20-16-01-PGXOL-6I-_titlelist_Prov1x_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-11-23-15-02-59-PGXOL-9i-Callaway_Reva.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-11-23-15-02-59-PGXOL-9i-callaway_Reva.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-11-23-18-52-21-PGXOL-PW-Srixon_softfeel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-11-23-18-59-46-PGXOL-PW-Callaway_Hex_Soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-11-23-19-12-23-PGXOL-4I-Callaway_Hex_Soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-11-23-19-18-50-PGXOL-4i-Vice_Pro_Soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-11-23-19-24-24-PGXOL-4I-Maxifli_SoftFli.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-12-23-13-03-20-Cobra- 6I- Callaway_Hex_Soft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-12-23-13-08-30-COBRa-9I-Callaway_SuperSoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-12-23-13-13-43-Cobra -6I-Callaway_SuperSoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-12-23-13-17-29-PGXOL-6I-Callaway_Supersoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-26-23-15-59-17-PGXOL-8I-TITLELIST_ProV1_RCT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-26-23-16-08-15-PGXOL-8i-Callaway_Supersoft.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/input_csv_files/gspro-export02-26-23-20-54-08-PGXOL-4I-Titlelist_prov1_rct.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-091707.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-143150.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-144101.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-144547.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-144656.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-145247.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-145501.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-145608.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-145846.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-150156.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-150323.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-150417.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/GSProCombinedFile_20230228-150609.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230204-211941.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230204-212728.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230204-213827.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230204-214243.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230204-214546.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230204-215236.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230204-215721.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230212-150644.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230212-151300.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230212-152130.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230212-152303.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230212-152317.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/csv_files/old/GSProCombinedFile_20230212-152404.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-153510.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-153838.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-153942.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-154620.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-170422.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-170616.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-171238.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-171420.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-171717.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-184050.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-184229.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-191307.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-191656.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-202906.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-203118.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-203410.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-210008.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-210417.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-210843.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-211812.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-211937.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-212018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-212424.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-213507.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-213604.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-213702.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-214325.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-222305.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-222859.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-223213.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-223340.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-223347.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-223713.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-224813.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-225232.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-225444.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-225514.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-230728.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-231636.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-232844.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-234022.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-234637.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-234802.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-235041.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-235145.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-235318.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-235454.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-235529.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230225-235709.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-000021.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-000222.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-000340.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-000502.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-000633.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-000900.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-001027.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-001324.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-001427.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-002823.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-003045.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-003107.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-003329.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-003541.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-003644.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-003732.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-003929.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-004216.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-145604.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-152349.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-152612.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-162909.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230226-163034.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-085356.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-090017.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-092852.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-092859.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-120500.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-120652.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-120731.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-121030.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-121208.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-121504.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-121543.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-121611.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-121936.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-122339.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-122555.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-122627.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-122812.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-123030.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-123343.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-123425.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-123726.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-123814.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-124235.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-124509.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-124603.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-124610.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-124914.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-125421.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-130037.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-130513.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-130706.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-130805.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-130908.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-130949.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-131850.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-132429.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-132954.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-133158.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-135036.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-135059.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-135358.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-140733.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-140751.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-140917.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-141319.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-141408.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-141517.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-141630.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-141649.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-142400.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-142415.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-144839.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-144902.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-144945.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-091918.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-145137.csv">
           <value>
             <Attribute>
-              <option name="separator" value=";" />
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-145313.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-145550.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-145917.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-150002.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-150039.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-150225.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-150418.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-161757.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-162026.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-162449.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-162626.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-164033.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-164108.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-164315.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-164354.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-164626.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-164750.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-164805.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-165012.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-165142.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-165241.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-092322.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-165455.csv">
           <value>
             <Attribute>
-              <option name="separator" value=";" />
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-092916.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-165753.csv">
           <value>
             <Attribute>
-              <option name="separator" value=";" />
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/input_csv_files/gspro-export02-01-23-18-57-28-PW-PGXOL-TitlistProv1x.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-165959.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/input_csv_files/gspro-export02-03-23-17-03-05-5i-One Iron-Hex Tour.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-170038.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-083721.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-170237.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-083940.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-170558.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-084441.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-171125.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-084811.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-171252.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-085134.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230227-171412.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-085337.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-083640.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-090718.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-083715.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091321.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-083812.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091454.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-084037.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091542.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-084335.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091918.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-084521.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-092322.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-084924.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-092916.csv">
+        <entry key="/archives/output_csv/old/GSProCombinedFile_20230228-085753.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-112600.csv">
+        <entry key="/input_files/gspro-export02-27-23-20-34-31-PGXOL-8I-Titlelist-TruFeel.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-113137.csv">
+        <entry key="/input_files/gspro-export02-27-23-20-48-09-Cobra-8I-TitlelistTruSoft.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/gspro-export01-28-23-9-53-41-OneIron - 7iron HexSoft .csv">
+        <entry key="/input_files/gspro-export02-27-23-20-55-16-Cobra-8I-Titlelist_Trufeel.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/gspro-export02-01-23-18-57-28-PW-PGXOL-TitlistProv1x.csv">
+        <entry key="/input_files/gspro-export02-27-23-20-55-16-PGXOL-8I-Titlelist_Trufeel.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/gspro-export02-03-23-17-03-05-5i-One Iron-Hex Tour.csv">
+        <entry key="/input_files/gspro-export02-27-23-21-05-25-PGXOL-4I-Titlelist_TruFeel.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/combineGSProCSVFiles_CLASS/sampe.csv">
+        <entry key="/input_files/gspro-export02-27-23-21-14-23-PGXOL-4I-Titlelist_TruFeel.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -514,10 +2278,297 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/old/ORIG/GSProCombinedFile.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-091542.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-091918.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-092322.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/html_files/GSProCombinedFile.html_20230216-092916.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-083721.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-083940.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-084441.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-084811.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-085134.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-085337.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-090718.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091321.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091454.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091542.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-091918.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-092322.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-092916.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-112600.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/old/combineGSProCSVFiles_CLASS/archives/output_csv/GSProCombinedFile_20230216-113137.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/old/csv_filesGSProCombinedFile_20230204-142754.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arccos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arcsin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-cbrt.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-cos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-exp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-expm1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-sinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/venv_3.1/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-tanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/views/Clubs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
             </Attribute>
           </value>
         </entry>

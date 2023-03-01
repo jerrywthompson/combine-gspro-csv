@@ -1,0 +1,66 @@
++----------------+------+----------------------+----------+----------+-----------+--------------+-----------+--------------+-----------+--------------+
+|      Mfg       | Club |         Ball         | AvgCarry | MaxCarry | TotalDist | MaxTotalDist | ClubSpeed | MaxClubSpeed | BallSpeed | MaxBallSpeed |
++----------------+------+----------------------+----------+----------+-----------+--------------+-----------+--------------+-----------+--------------+
+|     Cobra      |  I9  |  Callaway SuperSoft  |  115.0   |  129.0   |   120.0   |    134.0     |    81.0   |     83.0     |    92.0   |    100.0     |
+|     Cobra      |  I8  |  Titlelist TruFeel   |  127.0   |  141.0   |   133.0   |    148.0     |    78.0   |     81.0     |    98.0   |    105.0     |
+|     Cobra      |  I7  |  Callaway Hex Soft   |  106.0   |  144.0   |   114.0   |    152.0     |    79.0   |     83.0     |    86.0   |    107.0     |
+|     Cobra      |  I6  |  Callaway SuperSoft  |  148.0   |  172.0   |   159.0   |    183.0     |    83.0   |     87.0     |   107.0   |    117.0     |
+|     Cobra      |  I6  |  Callaway Hex Soft   |  127.0   |  151.0   |   138.0   |    161.0     |    81.0   |     85.0     |    97.0   |    110.0     |
+|   Giga Golf    |  I7  |   Maxifli SoftFli    |  131.0   |  153.0   |   142.0   |    161.0     |    81.0   |     83.0     |   100.0   |    112.0     |
+|   Giga Golf    |  I7  | Titlelist ProV1 RCT  |  125.0   |  141.0   |   139.0   |    153.0     |    75.0   |     80.0     |    94.0   |    102.0     |
+|   Giga Golf    |  I7  | Titlelist ProV1x RCT |  125.0   |  141.0   |   139.0   |    153.0     |    75.0   |     80.0     |    94.0   |    102.0     |
+|   Giga Golf    |  I6  |   Maxifli SoftFli    |  146.0   |  168.0   |   155.0   |    179.0     |    79.0   |     84.0     |   106.0   |    113.0     |
+|   Giga Golf    |  I5  |   Maxifli SoftFli    |  148.0   |  164.0   |   161.0   |    176.0     |    84.0   |     89.0     |   108.0   |    113.0     |
+|   Giga Golf    |  GW  |   Maxifli SoftFli    |  146.0   |  151.0   |   150.0   |    154.0     |    77.0   |     78.0     |   105.0   |    107.0     |
+|    One Iron    |  I7  |   Srixon Softfeel    |  124.0   |  129.0   |   133.0   |    137.0     |    79.0   |     83.0     |    94.0   |     97.0     |
+|    One Iron    |  I7  | Titlelist ProV1x RCT |  116.0   |  132.0   |   124.0   |    141.0     |    78.0   |     80.0     |    93.0   |    100.0     |
+|    One Iron    |  I7  |   Maxifli SoftFli    |  113.0   |  148.0   |   124.0   |    160.0     |    75.0   |     78.0     |    89.0   |    105.0     |
+|    One Iron    |  I7  |   Bridgestone Lady   |  111.0   |  137.0   |   119.0   |    143.0     |    79.0   |     85.0     |    88.0   |    103.0     |
+|    One Iron    |  I7  |       Vice Pro       |  104.0   |  135.0   |   117.0   |    142.0     |    77.0   |     81.0     |    87.0   |    102.0     |
+|    One Iron    |  I7  |  Callaway Hex Tour   |  102.0   |  148.0   |   113.0   |    160.0     |    77.0   |     80.0     |    85.0   |    105.0     |
+|    One Iron    |  I7  |     Spectra Pink     |  102.0   |  123.0   |   110.0   |    129.0     |    77.0   |     78.0     |    84.0   |     94.0     |
+|    One Iron    |  I7  |  Callaway Hex Soft   |  101.0   |  130.0   |   113.0   |    137.0     |    76.0   |     81.0     |    86.0   |    103.0     |
+|    One Iron    |  I7  |      Vice Tour       |  101.0   |  136.0   |   113.0   |    144.0     |    75.0   |     80.0     |    84.0   |    100.0     |
+|    One Iron    |  I7  |       Kirkland       |  100.0   |  127.0   |   112.0   |    133.0     |    80.0   |     84.0     |    83.0   |     97.0     |
+|    One Iron    |  I7  |  Callaway SuperSoft  |   98.0   |  136.0   |   110.0   |    144.0     |    74.0   |     80.0     |    82.0   |    100.0     |
+|    One Iron    |  I6  |       Vice Pro       |  118.0   |  139.0   |   130.0   |    151.0     |    77.0   |     81.0     |    90.0   |    102.0     |
+|    One Iron    |  I5  |  Callaway Hex Tour   |  104.0   |  136.0   |   119.0   |    151.0     |    76.0   |     79.0     |    87.0   |    100.0     |
+|    One Iron    |  I4  | Titlelist ProV1 RCT  |  149.0   |  166.0   |   165.0   |    180.0     |    81.0   |     85.0     |   105.0   |    113.0     |
+|    One Iron    |  I4  |   Maxifli SoftFli    |  146.0   |  159.0   |   157.0   |    168.0     |    85.0   |     86.0     |   107.0   |    114.0     |
+| PGX One Length |  SW  |  Titlelist TruFeel   |   78.0   |   93.0   |    83.0   |    106.0     |    76.0   |     91.0     |    70.0   |     78.0     |
+| PGX One Length |  PW  |       Vice Pro       |  112.0   |  118.0   |   122.0   |    127.0     |    80.0   |     80.0     |    90.0   |     93.0     |
+| PGX One Length |  PW  |   Maxifli SoftFli    |  109.0   |  115.0   |   113.0   |    120.0     |    79.0   |     80.0     |    89.0   |     91.0     |
+| PGX One Length |  PW  |  Callaway SuperSoft  |  106.0   |  115.0   |   110.0   |    120.0     |    85.0   |    110.0     |    87.0   |     93.0     |
+| PGX One Length |  PW  | Titlelist ProV1x RCT |  105.0   |  119.0   |   109.0   |    124.0     |    80.0   |     85.0     |    86.0   |     95.0     |
+| PGX One Length |  PW  |   Srixon Softfeel    |  101.0   |  122.0   |   107.0   |    140.0     |    78.0   |     83.0     |    84.0   |    103.0     |
+| PGX One Length |  PW  |  Callaway Hex Soft   |   86.0   |  126.0   |    94.0   |    136.0     |    74.0   |     83.0     |    77.0   |     98.0     |
+| PGX One Length |  I9  |    Callaway Reva     |  127.0   |  140.0   |   133.0   |    146.0     |    79.0   |     83.0     |    97.0   |    105.0     |
+| PGX One Length |  I8  | Titlelist ProV1 RCT  |  132.0   |  144.0   |   140.0   |    152.0     |    79.0   |     84.0     |   100.0   |    106.0     |
+| PGX One Length |  I8  |  Callaway SuperSoft  |  127.0   |  145.0   |   134.0   |    152.0     |    80.0   |     82.0     |    99.0   |    107.0     |
+| PGX One Length |  I8  |  Titlelist TruFeel   |  127.0   |  142.0   |   134.0   |    148.0     |    78.0   |     81.0     |    98.0   |    107.0     |
+| PGX One Length |  I7  |   Maxifli SoftFli    |  119.0   |  154.0   |   129.0   |    162.0     |    77.0   |     85.0     |    93.0   |    111.0     |
+| PGX One Length |  I7  | Titlelist ProV1 RCT  |  115.0   |  140.0   |   128.0   |    149.0     |    78.0   |     80.0     |    90.0   |    103.0     |
+| PGX One Length |  I7  |    Bridgestone e6    |  113.0   |  134.0   |   123.0   |    142.0     |    76.0   |     79.0     |    90.0   |     99.0     |
+| PGX One Length |  I7  | Titlelist ProV1x RCT |  113.0   |  143.0   |   123.0   |    150.0     |    76.0   |     87.0     |    89.0   |    106.0     |
+| PGX One Length |  I7  |   Wilson Duo Soft    |  110.0   |  137.0   |   120.0   |    143.0     |    76.0   |     79.0     |    89.0   |    103.0     |
+| PGX One Length |  I7  |  Callaway SuperSoft  |  108.0   |  132.0   |   119.0   |    140.0     |    75.0   |     78.0     |    88.0   |     99.0     |
+| PGX One Length |  I7  |  Callaway Hex Soft   |  104.0   |  144.0   |   112.0   |    152.0     |    78.0   |     83.0     |    85.0   |    107.0     |
+| PGX One Length |  I7  |      Vice Tour       |  104.0   |  144.0   |   113.0   |    152.0     |    78.0   |     81.0     |    86.0   |    106.0     |
+| PGX One Length |  I7  |   Bridgestone e12    |  102.0   |  125.0   |   110.0   |    132.0     |    77.0   |     79.0     |    83.0   |     96.0     |
+| PGX One Length |  I6  |  Callaway SuperSoft  |  166.0   |  170.0   |   176.0   |    180.0     |    83.0   |     85.0     |   116.0   |    118.0     |
+| PGX One Length |  I6  |       Vice Pro       |  157.0   |  163.0   |   168.0   |    172.0     |    79.0   |     81.0     |   110.0   |    114.0     |
+| PGX One Length |  I6  | Titlelist ProV1 RCT  |  124.0   |  151.0   |   137.0   |    161.0     |    80.0   |     84.0     |    98.0   |    110.0     |
+| PGX One Length |  I6  | Titlelist ProV1x RCT |  124.0   |  151.0   |   137.0   |    161.0     |    80.0   |     84.0     |    98.0   |    110.0     |
+| PGX One Length |  I5  |  Callaway Hex Soft   |  138.0   |  177.0   |   152.0   |    192.0     |    80.0   |     86.0     |   102.0   |    118.0     |
+| PGX One Length |  I5  |   Maxifli SoftFli    |  132.0   |  172.0   |   146.0   |    186.0     |    79.0   |     86.0     |    99.0   |    116.0     |
+| PGX One Length |  I5  |  Callaway Hex Tour   |  120.0   |  163.0   |   135.0   |    176.0     |    78.0   |     84.0     |    94.0   |    113.0     |
+| PGX One Length |  I4  |  Callaway Hex Soft   |  162.0   |  177.0   |   176.0   |    195.0     |    84.0   |     86.0     |   113.0   |    118.0     |
+| PGX One Length |  I4  |       Vice Pro       |  158.0   |  179.0   |   173.0   |    191.0     |    82.0   |     86.0     |   113.0   |    120.0     |
+| PGX One Length |  I4  | Titlelist ProV1 RCT  |  157.0   |  168.0   |   171.0   |    186.0     |    83.0   |     85.0     |   110.0   |    114.0     |
+| PGX One Length |  I4  |  Titlelist TruFeel   |  146.0   |  173.0   |   158.0   |    185.0     |    82.0   |     84.0     |   106.0   |    119.0     |
+| PGX One Length |  I4  |   Maxifli SoftFli    |  145.0   |  168.0   |   160.0   |    182.0     |    84.0   |     86.0     |   108.0   |    115.0     |
+| PGX One Length |  I3  |   Maxifli SoftFli    |  127.0   |  170.0   |   142.0   |    182.0     |    81.0   |     88.0     |   100.0   |    117.0     |
+| PGX One Length |  I3  |    Callaway Reva     |   97.0   |  175.0   |   114.0   |    189.0     |    79.0   |     86.0     |    91.0   |    117.0     |
+| PGX One Length |  GW  |    Bridgestone e6    |   87.0   |   91.0   |    91.0   |     98.0     |    77.0   |     81.0     |    75.0   |     79.0     |
+| PGX One Length |  GW  |   Maxifli SoftFli    |   86.0   |  108.0   |    91.0   |    113.0     |    75.0   |     79.0     |    75.0   |     87.0     |
++----------------+------+----------------------+----------+----------+-----------+--------------+-----------+--------------+-----------+--------------+
