@@ -2,9 +2,9 @@ SELECT
 	Mfg,
 	Club,
 	ROUND(AVG(Carry),0) AS Carry,
-	ROUND(MAX(Carry),0) AS MaxCarry,
-	ROUND(AVG(TotalDistance),0) AS TotalDist,
-	ROUND(MAX(TotalDistance),0) AS MaxTotalDist
+	ROUND(MAX(Carry),0) AS "Max Carry",
+	ROUND(AVG(Total_Distance),0) AS "Total Dist",
+	ROUND(MAX(Total_Distance),0) AS "Max Total Dist"
 	
 FROM results
 
@@ -20,6 +20,7 @@ WHERE
 	or 	(Club == 'I5' and Carry > 140)
 	or 	(Club == 'I4' and Carry > 150)
 	or 	(Club == 'I3' and Carry > 160)
+	or 	(Club == 'DR-NS' and Carry > 160)
 
 GROUP By 
 	Mfg,

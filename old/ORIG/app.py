@@ -36,7 +36,7 @@ def createArchiveDir():
 def writeHeader():
     # global output_file_path
     # output_file_path = output_text_box.get("1.0","end-1c").replace('{','').replace('}', '')
-    # output_file_name = '/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFile.csv'
+    # output_file_name = '/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFileb2.csv'
     if not os.path.isfile(outputFilePath):
         data = list(output_file_header.split(","))
         activeOutputFile = open(outputFilePath, 'a')
@@ -52,7 +52,7 @@ def writeOutput():
     data = output_file_data
 
     activeOutputFile = open(outputFilePath, 'a')
-    # activeOutputFile = open('/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFile.csv', 'a')
+    # activeOutputFile = open('/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFileb2.csv', 'a')
     writer = csv.writer(activeOutputFile)
     writer.writerow(data)
     # for data_list in outputFileData:
@@ -139,7 +139,7 @@ def create_db():
 
 
 def createTable():
-    csvPath = '/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFile.csv'
+    csvPath = '/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFileb2.csv'
 
     df = pd.read_csv(inputFilepath)
 
@@ -227,7 +227,7 @@ output_file_button.grid(row=6, column=0, sticky='w', padx=10, pady=20)
 output_file_var = tk.StringVar()
 output_entrybox = tk.Entry(root, width=50)
 output_entrybox.grid(row=6, column=1, padx=5, pady=20)
-# output_text_box.insert(0,'/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFile.csv')
+# output_text_box.insert(0,'/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFileb2.csv')
 
 db_file_button = tk.Button(root, text="Select Database File", command=select_database_file)
 db_file_button.grid(row=8, column=0, sticky='w', padx=10, pady=20)
@@ -237,7 +237,7 @@ db_entrybox.grid(row=8, column=1, padx=5, pady=20)
 
 results_text_box = tk.Text(root, height="15")
 results_text_box.grid(row=10, column=0, padx=10, pady=20, columnspan=2)
-# results_text_box.insert(0,'/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFile.csv')
+# results_text_box.insert(0,'/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFileb2.csv')
 
 
 process_button = tk.Button(root, text="Start", command=process_files)

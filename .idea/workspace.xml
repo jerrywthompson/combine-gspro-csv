@@ -12,260 +12,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2916158a-95e6-4a42-8980-3ec739effbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/combineGSProCSV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GSProCombinedFile_b2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewsOLD/ALL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewsOLD/Ball_specs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewsOLD/Carry.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewsOLD/Carry_Avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewsOLD/Carry_Max.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewsOLD/Carry_Max_by_Ball.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewsOLD/Clubs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/combineGSProCSV.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GSProCombinedFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GSProCombinedFile.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GSProCombinedFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/GSProCombinedFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-09-53-41-One_Iron - 7iron- Callaway_Hex_soft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-10-06-03-7 One_Iron - Titlelist_pro1vx_RCT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-10-06-03-7 One_Iron Titlelist_pro1vx_RCT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-10-21-20ALL BAD hits 7 OneIron Hex Tour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-11-55-11-7i- One_Iron- Callaway_Hex_Tour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-11-55-11-7i- One_Iron- Hex_Tour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-11-55-11-7i- One_Iron- Hex_Tourv2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-12-02-57-7i-One_Iron Maxifli_SoftFli.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-12-08-01-7i-One_Iron-Callaway_hex_Tour v3 .csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-12-08-01-7i-One_Iron-Callaway_hex_Tour v3 .csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-14-11-05 7i-One_Iron Callaway_SuperSoft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-14-22-18-7i-One_Iron-Vice_Pro_soft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-14-28-00-7i-One_Iron-Srixon_SoftFeel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-28-00-7i-One_Iron-Srixon_SoftFeel.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-14-33-24-7i-One_Iron - Spectra_Pink.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-14-50-39-7i-One_Iron-kirkland.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-50-39-7i-One_Iron-kirkland.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-14-59-17-7i-One_Iron-Bridgestone_Lady.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-14-59-17-7i-One_Iron-Bridgestone_Lady.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-16-17-54- 7i PGXOL-Bridgestone_B6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-16-29-35-7i PGXOL - Titlelist_Provx1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-16-42-14-7i-PGXOL-Maxifli_SoftFli.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-16-42-14-7i-PGXOL-Maxifli_SoftFli.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-19-31-41-7i-pgxol-Callaway_supersoft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-19-31-41-7i-pgxol-Callaway_supersoft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-19-37-09-7i-pgxol-wilson_duo_soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-19-37-09-7i-pgxol-wilson_duo_soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-19-46-09-7i pgxol-bridgestone_b12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-19-59-42-7i-pgxol-vice_tour.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-19-59-42-7i-pgxol-vice_tour.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-20-07-57-7i-Cobra-Callaway_hex_Soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-28-23-20-07-57-7i-Cobra-Callaway_hex_Soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-28-23-9-53-41-One_Iron - 7iron- Callaway_Hex_Soft .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export01-29-23-19-30-16-PW PGXOL-Callaway_Hex_Soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export01-29-23-19-30-16-PW PGXOL-Callaway_Hex_Soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-18-29-41-6i-One_Iron-Vice_Pro_soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-29-41-6i-One_Iron-Vice_Pro_soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-18-35-50-6i-PGXOL-Vice_Pro_soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-35-50-6i-PGXOL-Vice_Pro_soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-18-41-31-PW-PGXOL-Vice_Pro_soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-41-31-PW-PGXOL-Vice_Pro_soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-18-45-34-PW-PGXOL-Maxifli_Softfli.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-45-34-PW-PGXOL-Maxifli_Softfli.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-18-51-08-PW-PGXOL-Callaway_SuperSoft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-51-08-PW-PGXOL-Callaway_SuperSoft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_RCT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-18-57-28-PW-PGXOL-TitlistProv1x.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-01-23-19-11-49-GW-PGXOL-Bridgstone_e6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-03-23-17-03-05-5i-One Iron-Hex Tour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-03-23-17-03-05-5i-One_Iron-Callaway_Hex_Tour.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-03-05-5i-One_Iron-Callaway_Hex_Tour.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-03-23-17-11-29-5i-pgxOL-Callaway_hex_Tour.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-11-29-5i-pgxOL-Callaway_hex_Tour.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-03-23-17-17-29-5i-pgxOL-Maxifli_softfli.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-17-29-5i-pgxOL-Maxifli_softfli.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-03-23-17-23-24-pgxOL-5i-Callaway_Hex_Soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-03-23-17-23-24-pgxOL-5i-Callaway_Hex_Soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-05-23-17-57-22-pgxOL-3i-Callaway_Reva.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-17-57-22-pgxOL-3i-Callaway_Reva.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-05-23-18-08-54-PGXOL-4I-Maxifli_Softfli.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-18-08-54-PGXOL-4I-Maxifli_Softfli.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-05-23-18-41-53-PGXOL-$I-Maxifli_Softfli.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-18-41-53-PGXOL-$I-Maxifli_Softfli.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-05-23-18-48-45-PGXOL-4I-Callaway_Reva.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-05-23-18-48-45-PGXOL-4I-Callaway_Reva.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-08-23-19-53-56-PGXOL-PW-Maxifli_Softfli.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-08-23-19-53-56-PGXOL-PW-Maxifli_Softfli.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-08-23-20-23-56-Giga_Golf -7I-MaxiFli_SoftFli_pink.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-08-23-20-23-56-Giga_Golf -7I-MaxiFli_SoftFli_pink.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-08-23-20-30-39-Giga_Golf - 5I-Maxifli_SoftFLI_pink- .csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-08-23-20-30-39-Giga_Golf - 5I-Maxifli_SoftFLI_pink- .csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-09-23-17-56-42-Giga_Golf-7I-Titlelist_Prov1_RCT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-17-56-42-Giga_Golf-7I-Titlelist_Prov1_RCT.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-09-23-18-04-30-PGXOL-&amp;I-Titlelist_Prov1_rct.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-18-04-30-PGXOL-&amp;I-Titlelist_Prov1_rct.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-09-23-19-58-18-PGXOL-7I-Maxifli_Softfli_pink.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-19-58-18-PGXOL-7I-Maxifli_Softfli_pink.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-09-23-20-07-54-Giga_Golf - 6I-Maxifli_Softfli_pink.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-20-07-54-Giga_Golf - 6I-Maxifli_Softfli_pink.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-09-23-20-16-01-PGXOL-6I-Titlelist_Prov1_rct.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-09-23-20-16-01-PGXOL-6I-Titlelist_Prov1_rct.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-11-23-15-02-59-PGXOL-9i-allaway Reva.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-11-23-18-52-21-PGXOL-PW-Srixon-softfeel.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-11-23-18-59-46-PGXOL-PW-Callaway_Hex_Soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-18-59-46-PGXOL-PW-Callaway_Hex_Soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-11-23-19-12-23-PGXOL-4I-Callaway_Hex_Soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-19-12-23-PGXOL-4I-Callaway_Hex_Soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-11-23-19-18-50-PGXOL-4i-Vice_Pro_Soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-19-18-50-PGXOL-4i-Vice_Pro_Soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-11-23-19-24-24-PGXOL-4I-Maxifli_SoftFli.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-11-23-19-24-24-PGXOL-4I-Maxifli_SoftFli.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-12-23-13-03-20-Cobra- 6I- Callaway_Hex_Soft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-03-20-Cobra- 6I- Callaway_Hex_Soft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-12-23-13-08-30-COBRa-9I-Callaway_SuperSoft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-08-30-COBRa-9I-Callaway_SuperSoft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-12-23-13-13-43-Cobra -6I-Callaway_SuperSoft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-13-43-Cobra -6I-Callaway_SuperSoft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golf files/gspro-export02-12-23-13-17-29-PGXOL-6I-Callaway_Supersoft.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-12-23-13-17-29-PGXOL-6I-Callaway_Supersoft.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230204-211941.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230204-212728.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230204-213827.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230204-214243.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230204-214546.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230204-215236.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230204-215721.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230212-150644.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230212-151300.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230212-152130.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230212-152303.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230212-152317.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/csv_files/GSProCombinedFile_20230212-152404.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-210818.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-211941.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-212728.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-213827.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-214243.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-214546.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-215236.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-215721.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/GSProCombinedFile_20230204-215721_20230212-152130.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230212-150644.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230212-151300.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230212-152317.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230212-152404.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-151846.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-153510.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-153838.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-153942.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-154620.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-170422.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-170616.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-171238.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-171420.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-171717.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-184050.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-184229.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-191307.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-191656.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-191919.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-192034.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-192217.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-194513.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-194841.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-195419.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-195523.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-200148.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-200812.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-201233.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-202906.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-203118.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-203410.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-210008.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-210417.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-210843.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-211812.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-211937.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-212018.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-212424.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-213507.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-213604.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-213702.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-214325.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-222305.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-222859.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-223213.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-223340.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-223347.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-223713.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-224813.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-225232.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-225444.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-225514.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-230728.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-231636.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-232844.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-234022.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-234637.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-234802.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-235041.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-235145.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-235318.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-235454.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-235529.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230225-235709.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-000021.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-000222.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-000340.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-000502.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-000633.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-000900.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-001027.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-001324.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-001427.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-002823.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-003045.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-003107.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-003329.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-003541.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-003644.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-003732.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-003929.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-004216.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-145604.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-152349.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-152612.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-162909.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230226-163034.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-085356.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-090017.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-092852.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-092859.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-120500.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-120652.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-120731.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-121030.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-121208.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-121504.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-121543.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-121611.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-121936.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-122339.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-122555.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-122627.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-122812.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-123030.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-123343.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-123425.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-123726.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-123814.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-124235.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-124509.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-124603.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-124610.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-124914.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-125421.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-130037.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-130513.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-130706.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-130805.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-130908.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-130949.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-131850.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-132429.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-132954.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-133158.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-135036.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-135059.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-135358.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-140733.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-140751.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-140917.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-141319.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-141408.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-141517.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-141630.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-141649.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-142400.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-142415.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-144839.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-144902.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-144945.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-145137.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-145313.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-145550.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-145917.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-150002.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-150039.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-150225.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/db_files/database_20230227-150418.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GSProCombinedFile.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GSProCombinedFile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/._gspro-export01-28-23-09-53-41-One_Iron - 7iron- Callaway_Hex_Soft .bad.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/._gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/._gspro-export01-28-23-14-33-24-7i-One_Iron-Spectra_Pink.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-09-53-41-One_Iron - 7iron Callaway_Hex_Soft .csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-09-53-41-One_Iron - 7iron- Callaway_Hex_Soft.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-09-53-41-One_Iron - 7iron- Callaway_Hex_soft.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-10-06-03-7 One_Iron - Titlelist_prov1x_RCT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-10-06-03-7 One_Iron Titlelist_prov1x_RCT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-10-06-03-7 One_Iron-Titlelist_prov1x_RCT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-11-55-11-7i- One_Iron- Callaway_Hex_Tour.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-11-55-11-7i- One_Iron- Callaway_Hex_Tourv2.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-11-55-11-7i- One_Iron-Callaway_Hex_Tourv2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-12-02-57-7i-One_Iron Maxifli_SoftFli.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-12-02-57-7i-One_Iron-Maxifli_SoftFli.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-12-08-01-7i-One_Iron-Callaway_Hex_Tour v3 .csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-12-08-01-7i-One_Iron-Callaway_hex_Tour v3 .csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-11-05 7i-One_Iron Callaway_SuperSoft.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-11-05 7i-One_Iron-Callaway_SuperSoft.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.bad.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-17-36-7i One_Iron-Vice_Tour.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-22-18-7i-One_Iron-Vice_Pro.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-22-18-7i-One_Iron-Vice_Pro_soft.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-28-00-7i-One_Iron-Srixon_SoftFeel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-28-00-7i-One_Iron-Srixon_SoftFeelxxxx.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-33-24-7i-One_Iron - Spectra_Pink.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-33-24-7i-One_Iron -Spectra_Pink.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-33-24-7i-One_Iron-Spectra_Pink.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-50-39-7i-One_Iron-kirkland.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-14-59-17-7i-One_Iron-Bridgestone_Lady.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-16-17-54- 7i PGXOL-Bridgestone_e6.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-16-29-35-7i PGXOL - Titlelist_Prov1x_RCT.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-16-29-35-7i PGXOL - Titlelist_Prov1x_rct.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-16-42-14-7i-PGXOL-Maxifli_SoftFli.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-19-31-41-7i-PGXOL-Callaway_supersoft.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-19-31-41-7i-pgxol-Callaway_supersoft.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-19-37-09-7i-PGXOL-wilson_duo_soft.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-19-37-09-7i-pgxol-wilson_duo_soft.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-19-46-09-7i PGXOL-bridgestone_e12.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-19-46-09-7i pgxol-bridgestone_e12.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-19-59-42-7i-pgxol-vice_tour.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export01-28-23-20-07-57-7i-Cobra-Callaway_hex_Soft.csv" beforeDir="false" />
@@ -278,7 +75,7 @@
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-01-23-18-41-31-PW-PGXOL-Vice_Pro_soft.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-01-23-18-45-34-PW-PGXOL-Maxifli_Softfli.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-01-23-18-51-08-PW-PGXOL-Callaway_SuperSoft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_RCT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/archives/input_csv_files/duplicates/dups2/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_RCT.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_RCT.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-01-23-18-57-28-PW-PGXOL-Titlelist_Prov1x_rct.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-01-23-19-11-49-GW-PGXOL-Bridgestone_e6.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-03-23-17-03-05-5i-One_Iron-Callaway_Hex_Tour.csv" beforeDir="false" />
@@ -316,178 +113,37 @@
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-26-23-15-59-17-PGXOL-8I-TITLELIST_ProV1_RCT.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-26-23-16-08-15-PGXOL-8i-Callaway_Supersoft.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-26-23-20-54-08-PGXOL-4I-Titlelist_prov1_rct.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-153510.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-153838.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-153942.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-154620.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-170422.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-170616.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-171238.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-171420.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-171717.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-184050.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-184229.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-191307.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-191656.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-202906.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-203118.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-203410.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-210008.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-210417.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-210843.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-211812.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-211937.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-212018.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-212424.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-213507.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-213604.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-213702.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-214325.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-222305.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-222859.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-223213.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-223340.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-223347.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-223713.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-224813.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-225232.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-225444.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-225514.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-230728.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-231636.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-232844.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-234022.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-234637.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-234802.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-235041.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-235145.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-235318.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-235454.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-235529.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230225-235709.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-000021.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-000222.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-000340.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-000502.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-000633.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-000900.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-001027.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-001324.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-001427.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-002823.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-003045.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-003107.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-003329.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-003541.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-003644.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-003732.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-003929.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-004216.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-145604.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-152349.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-152612.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-162909.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230226-163034.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-085356.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-090017.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-092852.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-092859.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-120500.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-120652.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-120731.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-121030.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-121208.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-121504.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-121543.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-121611.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-121936.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-122339.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-122555.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-122627.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-122812.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-123030.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-123343.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-123425.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-123726.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-123814.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-124235.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-124509.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-124603.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-124610.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-124914.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-125421.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-130037.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-130513.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-130706.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-130805.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-130908.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-130949.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-131850.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-132429.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-132954.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-133158.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-135036.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-135059.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-135358.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-140733.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-140751.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-140917.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-141319.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-141408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-141517.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-141630.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-141649.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-142400.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-142415.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-144839.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-144902.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-144945.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-145137.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-145313.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-145550.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-145917.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-150002.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-150039.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-150225.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/output_csv/GSProCombinedFile_20230227-150418.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-09-53-41-OneIron - 7iron HexSoft .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-10-06-03-7 OneIron Titlist pro1vx RCT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-11-55-11-7i- One Iron- HexTour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-11-55-11-7i- One Iron- HexTourv2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-12-02-57-7i-One Iron Maxfli SoftFli.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-12-08-01-7i-OneIron-hex Tour v3 .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-14-11-05 7i-OneIron SuperSoft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-14-17-36-7i OneIron Vice Tour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-14-22-18-7i-One Iron Vice Pro.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-14-28-00-7i-OneIron-Sirxon SoftFeel.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-14-33-24-7i-One Iron -Spectra Pink.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-14-50-39-7i-Onr Iron-kirkland.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-14-59-17-7i-One Iron-Bridgestone Lady.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-16-17-54- 7i PGX-OL-Bridgestone B6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-16-29-35-7i PGX OL - Titleist Provx1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-16-42-14-7i-PGXOL-Maxifli SoftFli.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-19-31-41-7i-pgxol-supersoft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-19-37-09-7i-pgx-wilson soft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-19-46-09-7i pgxol-bridgestone b12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-19-59-42-7i-pgxol-vice tour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-28-23-20-07-57-7i-Cobra-hex Soft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export01-29-23-19-30-16-PW PGX-Hex Soft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-01-23-18-29-41-6i-One Iron-Vice Pro.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-01-23-18-35-50-6i-PGXOL-Vice Pro.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-01-23-18-41-31-PW-PGX-Vice Pro.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-01-23-18-45-34-PW-PGXOL-Mxifli Sofli.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-01-23-18-51-08-PW-PGXOL-SuperSoft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-01-23-18-57-28-PW-PGXOL-TitlistProv1x.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-01-23-19-11-49-GW-PGXOL-Bridgstone e6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/raw_files/gspro-export02-03-23-17-03-05-5i-One Iron-Hex Tour.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/gspro-export01-28-23-09-53-41-One_Iron - 7iron Callaway_Hex_Soft .csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-27-23-20-34-31-PGXOL-8I-Titlelist_TruFeel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-27-23-20-48-09-Cobra-8I-Titlelist_TruFeel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-27-23-20-55-16-Cobra-8I-Titlelist_Trufeel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-27-23-20-55-16-PGXOL-8I-Titlelist_Trufeel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-27-23-21-05-25-PGXOL-4I-Titlelist_TruFeel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-27-23-21-14-23-PGXOL-4I-Titlelist_TruFeel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-28-23-21-03-18-One_Iron-4I-Titlelist_prov1_rct.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-28-23-21-12-52-One_Iron-4i-Maxifli_softfli.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/input_csv_files/gspro-export02-28-23-21-23-36-PGXOL-SW-Titlelist_trufeel.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/ALL" beforeDir="false" afterPath="$PROJECT_DIR$/sql/ALL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/ORIG/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/ORIG/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/ORIG/createHTML.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/ORIG/createHTML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/ORIG/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/ORIG/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/ALL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/backup/ALL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/Ball_specs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/backup/Ball_specs.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/Carry.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/Carry.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/Carry_Avg.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/Carry_Avg.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/Carry_Max.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/backup/Carry_Max.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/Carry_Max_by_Ball.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/backup/Carry_Max_by_Ball.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/Clubs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/Clubs.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/ALL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Ball_specs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Carry.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Carry_Avg.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Carry_Max.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Carry_Max_by_Ball.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Clubs.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -526,23 +182,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/data/user/Family/Jerry/Golf Exports/combineGSProCSV",
+    "last_opened_file_path": "/data/user/Family/Jerry/Golf Exports/combineGSProCSV/input_files",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/input_files" />
+      <recent name="$PROJECT_DIR$/input_files BACKUP-3-5-23" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/combineGSProCSVFiles_CLASS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input_files" />
+      <recent name="$PROJECT_DIR$/sql" />
+      <recent name="$PROJECT_DIR$/sql/backup" />
+      <recent name="$PROJECT_DIR$/archives/input_csv_files/old" />
       <recent name="$PROJECT_DIR$/old" />
-      <recent name="$PROJECT_DIR$/archives/output_csv" />
-      <recent name="$PROJECT_DIR$/archives/output_csv/old" />
-      <recent name="$PROJECT_DIR$/archives/db_files/old" />
-      <recent name="$PROJECT_DIR$/archives/csv_files/old" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
@@ -727,20 +384,15 @@
           <line>30</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/model.py</url>
-          <line>157</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/model.py</url>
-          <line>94</line>
-          <option name="timeStamp" value="67" />
+          <line>289</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/model.py</url>
-          <line>231</line>
-          <option name="timeStamp" value="70" />
+          <line>265</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -753,7 +405,9 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="mvCmd" />
+        <watch expression="self.html_combo_table_tab_body" language="Python" />
+        <watch expression="self.html_combo_table_prefix" />
+        <watch expression="html_combo_table_suffix" />
       </configuration>
     </watches-manager>
   </component>

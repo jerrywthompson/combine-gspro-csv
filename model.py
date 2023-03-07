@@ -35,6 +35,16 @@ class Model:
     html_header: str = ''
     html_footer: str = ''
     default_html_filename: str = ''
+    default_input_csv_folder: str = ''
+    base_dir: str = ''
+    practice_date_format: str = "%m-%d-%y-%H-%M-%S"
+    html_combo_tables: str = ''
+    html_combo_table_tab_body: str = ''
+    html_combo_table_prefix: str = ''
+    total_ctr: int = 0
+    success_ctr: int = 0
+    failed_ctr: int = 0
+    duplicate_ctr: int = 0
 
     def __post_init__(self):
         self.input_filename = os.path.basename(str(self.input_file_path))
@@ -45,8 +55,9 @@ class Model:
         self.output_file_header = self.config.get('File_Details', 'header')
         self.mfg_list = self.config.options('Manufacture')
         self.ball_list = self.config.options('Ball')
-        self.default_input_csv_file_dir = self.config.get("File_Details", 'default_input_csv_file_dir')
         self.base_dir = os.getcwd()
+        self.default_input_csv_folder = os.path.join(self.base_dir, self.config.get("File_Details",
+                                                                                        'default_input_csv_folder'))
         self.default_output_csv_file_path = os.path.join(self.base_dir, self.config.get("File_Details",
                                                                                         'default_output_csv_file_name'))
         self.default_db_file_path = os.path.join(self.base_dir, self.config.get("File_Details", 'default_db_file_name'))
@@ -84,16 +95,16 @@ class Model:
         return f'CSV file archived: {new_file_name}\n\n'
 
     def archive_duplicate_output_csv_file(self):
-        self.csv_archive_dir = self.config.get('Archive_Directories', 'output_csv')
-        filename, file_extension = os.path.splitext(str(self.output_csv_file_path))
+        self.csv_archive_dir = self.config.get('Archive_Directories', 'input_csv')
+        filename, file_extension = os.path.splitext(str(self.input_file_path))
         file_base_name = os.path.basename(filename)
         new_file_name = f'{self.working_dir_path}/{self.csv_archive_dir}/duplicates/{file_base_name}_{self.timestamp}.csv'
-        os.system(f"cp '{self.output_csv_file_path}' '{new_file_name}'")
+        os.system(f"mv '{self.input_file_path}' '{new_file_name}'")
         return f'CSV file archived: {new_file_name}\n\n'
 
     def archive_html_file(self):
         self.html_archive_dir = self.config.get('Archive_Directories', 'html_files')
-        file_base_name = self.config.get('File_Details', 'default_html_file_name')
+        file_base_name = self.config.get('File_Details', 'default_html_file_name')[:-5]
         new_file_name = f"'{self.working_dir_path}/{self.html_archive_dir}/{file_base_name}_{self.timestamp}.html'"
         mvCmd = f"mv {file_base_name} {new_file_name}"
         os.system(mvCmd)
@@ -101,9 +112,12 @@ class Model:
 
     def create_output_file(self):
         self.timestamp = time.strftime("%Y%m%d-%H%M%S")
-        date_format = "%m-%d-%y-%H-%M-%S"
         print(self.input_file_path)
-        self.practice_session_dt_tm = datetime.strptime(str(self.practice_session_dt_tm), date_format)
+        try:
+            self.practice_session_dt_tm = datetime.strptime(str(self.practice_session_dt_tm), self.practice_date_format)
+        except:
+            print(f'Bad file skipping: {self.input_file_path}\n')
+            return False
 
         with open(self.input_file_path, 'r') as f:
             active_file = csv.reader(f)
@@ -191,8 +205,9 @@ class Model:
         csv_file = open(self.output_csv_file_path, 'r')
         data = csv_file.readlines()
         column_names = data[0].split(',')
+        column_names_mod = [sub.replace('_', ' ') for sub in column_names]
         table = prettytable.PrettyTable()
-        table.field_names = column_names
+        table.field_names = column_names_mod
         # table.add_row(column_names)
         for i in range(1, len(data)):
             row = data[i].split(',')
@@ -209,33 +224,86 @@ class Model:
 
         return f'HTML file created\n\n'
 
-    def create_html_views(self):
+    def create_views(self):
         if not os.path.exists('views'):
             # Create a new directory because it does not exist
             os.makedirs('views')
-
         # connect to the SQLite database
         conn = sqlite3.connect(self.db_file_path)
 
-        for file in os.listdir('sql/'):
+        for sql_file in os.listdir('sql/'):
             # Open the SQL file and read the query from it
-            with open(f'sql/{file}', 'r') as f:
-                query = f.read()
+            try:
+                with open(f'sql/{sql_file}', 'r') as f:
+                    query = f.read()
+            except:
+                print(f'Bad SQL File: {sql_file}\n')
+                continue
 
-            # print(f'query: {query}')
             # print(f'file: {file}')
 
-            # execute a SQL query
             cursor = conn.execute(query)
             # create a pretty table from the query results
             table = from_db_cursor(cursor)
-            filename = file[:-4]
+            filename = sql_file[:-4]
             # print(f'View filename: {filename}')
-            html_view_file_path = f'views/{filename}.csv'
-            with open(html_view_file_path, 'w') as f:
+            csv_view_file_path = f'views/{filename}.csv'
+            with open(csv_view_file_path, 'w') as f:
                 f.write(table.get_string())
 
-        return 'HTML views created'
+            html_table = table.get_html_string(attributes={'id': filename, 'class': 'table table-striped'})
+
+            html_header = self.get_header()
+            html_footer = self.get_footer()
+
+            html_view_file_path = f'views/{filename}.html'
+            with open(html_view_file_path, "w", encoding='utf-8') as f:
+                f.write(html_header)
+                f.write(html_table)
+                f.write(html_footer)
+
+
+            if self.total_ctr == 1:
+                self.html_combo_table_tab_body = self.html_combo_table_tab_body + f"""
+                <li>
+                    <a href='#tab-{filename}' data-toggle='tab'>{filename}</a>
+                </li>"""
+
+                self.html_combo_table_prefix = \
+                f"""
+                <p>
+                    {filename}
+                </p>
+                </div>
+                    <div class ='tab-pane' id='tab-{filename}'>\n"""
+
+            html_combo_table_suffix = \
+                f"""
+            """
+
+        self.html_combo_tables = self.html_combo_tables + self.html_combo_table_prefix + html_table + html_combo_table_suffix
+
+        return 'CSV Views created|\n'
+
+    def create_html_combo_view(self):
+
+        html_combo_table_tab_prefix = f"""            
+        <ul class='nav nav-tabs' role='tablist'>"""
+
+        html_combo_table_tab_suffix = f"""</ul>
+        <div class ='tab-content'>"""
+
+        html_combo_table_tab_syntax = html_combo_table_tab_prefix + self.html_combo_table_tab_body  + html_combo_table_tab_suffix
+
+        html_combo_table = html_combo_table_tab_syntax + self.html_combo_tables
+
+        html_view_file_path = f'views/GSProCombinedFileViews.html'
+        with open(html_view_file_path, "w", encoding='utf-8') as f:
+            f.write(self.get_header())
+            f.write(html_combo_table)
+            f.write(self.get_footer())
+
+        return 'GSProCombinedFileViews HTML created|\n'
 
     def get_filename_from_path(self):
         filename, file_extension = os.path.splitext(str(self.input_file_path))
@@ -245,6 +313,7 @@ class Model:
     def get_details_from_filename(self):
         self.get_timestamp_from_filename()
         if self.check_for_duplicate_files():
+            self.duplicate_ctr = self.duplicate_ctr  + 1
             messagebox.showinfo("Warning", f"File is a duplicate.  Skipping: \n{self.input_filename}")
             return False
 
@@ -288,26 +357,32 @@ class Model:
         return False
 
     def check_for_duplicate_files(self):
-        with open(self.output_csv_file_path, newline='') as csvfile:
-            reader = csv.reader(csvfile)
-            for row in reader:
-                if self.practice_session_dt_tm in row:
-                    print(f'File {self.input_filename} has already been added')
-                    self.archive_duplicate_output_csv_file()
-                    return True
+        if os.path.exists(self.output_csv_file_path):
+            with open(self.output_csv_file_path, newline='') as csvfile:
+                reader = csv.reader(csvfile)
+                try:
+                    formatted_date = str(datetime.strptime(str(self.practice_session_dt_tm), self.practice_date_format))
+                except:
+                    print(f'Bad file: {self.input_file_path}\n')
+                    return False
+                for row in reader:
+                    if formatted_date in row:
+                        print(f'File {self.input_filename} has already been added')
+                        self.archive_duplicate_output_csv_file()
+                        return True
 
     def get_header(self):
-        self.html_header = f"""<html>
-        <head>
-            <link rel="stylesheet" type="text/css"
-                  href="https://cdn.datatables.net/1.13.2/css/jquery.dataTables.min.css">
-            <link rel="stylesheet" type="text/css"
-                  href="https://cdn.datatables.net/buttons/2.3.4/css/buttons.dataTables.min.css">
-        </head>
-        <body>
-            <p>
-                {self.default_html_filename}
-            </p>
+        self.html_header = \
+        f"""<html>
+    <head>
+        <link rel="stylesheet" type="text/css"
+              href="https://cdn.datatables.net/1.13.3/css/jquery.dataTables.min.css">
+        <link rel="stylesheet" type="text/css"
+              href="https://cdn.datatables.net/buttons/2.3.4/css/buttons.dataTables.min.css">
+        <link rel="stylesheet" type="text/css"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body>
             """
         return self.html_header
 
@@ -332,15 +407,26 @@ class Model:
                         src="https://cdn.datatables.net/buttons/2.3.4/js/buttons.html5.min.js"></script>
                 <script type="text/javascript" charset="utf8"
                         src="https://cdn.datatables.net/buttons/2.3.4/js/buttons.print.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
                 <script>
-                    $('#datatypes').dataTable( {
-                        "order": [],
-                        dom: 'Bfrtip',
-                        buttons: [
-                            'copy', 'csv', 'excel', 'pdf', 'print'
-                        ],
-                        dom: 'Blfrtip',
-                        "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ]
+                        $(document).ready(function () {
+                            $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+                                $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+                            });
+                
+                        $('#datatypes').dataTable( {
+                            "order": [],
+                            dom: 'Bfrtip',
+                            buttons: [
+                                'copy', 'csv', 'excel', 'pdf', 'print'
+                            ],
+                            dom: 'Blfrtip',
+                            "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
+                            columnDefs: [
+                                {className: 'dt-head-center', 'targets': '_all'},
+                                {className: 'dt-nowrap', 'targets': [ 0, 1, 2 ]}
+                            ]
                     });
                 </script>
             </body>

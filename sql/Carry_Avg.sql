@@ -2,15 +2,15 @@ SELECT
 	Mfg,
 	Club,
 	Ball,
-	count(*) AS StrokeCnt,
-	ROUND(AVG(Carry),0) AS AvgCarry,
-	ROUND(MAX(Carry),0) AS MaxCarry,
-	ROUND(AVG(TotalDistance),0) AS TotalDist,
-	ROUND(MAX(TotalDistance),0) AS MaxTotalDist,
-	ROUND(AVG(ClubSpeed)) AS ClubSpeed,
-	ROUND(MAX(ClubSpeed)) AS MaxClubSpeed,
-	ROUND(AVG(BallSpeed)) AS BallSpeed,
-	ROUND(Max(BallSpeed)) AS MaxBallSpeed
+	count(*) AS "Stroke Cnt",
+	ROUND(AVG(Carry),0) AS "Avg Carry",
+	ROUND(MAX(Carry),0) AS "Max Carry",
+	ROUND(AVG(Total_Distance),0) AS "Total Dist",
+	ROUND(MAX(Total_Distance),0) AS "Max Total Dist",
+	ROUND(AVG(Club_Speed)) AS "Club Speed",
+	ROUND(MAX(Club_Speed)) AS "Max Club Speed",
+	ROUND(AVG(Ball_Speed)) AS "Ball Speed",
+	ROUND(Max(Ball_Speed)) AS "Max Ball Speed"
 	
 	
 FROM results
@@ -27,6 +27,7 @@ WHERE
 	or 	(Club == 'I5' and Carry > 140)
 	or 	(Club == 'I4' and Carry > 150)
 	or 	(Club == 'I3' and Carry > 160)
+	or 	(Club == 'DR-NS' and Carry > 160)
 
 GROUP By 
 	Mfg,

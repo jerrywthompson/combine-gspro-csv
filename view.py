@@ -26,6 +26,7 @@ class View:
 
         self.rowCtr = self.rowCtr + 1
         self.input_file_or_folder_path_entrybox = tk.Entry(self.root, width=70, font=self.font2)
+        self.input_file_or_folder_path_entrybox.insert(0,self.controller.model.default_input_csv_folder)
         self.input_file_or_folder_path_entrybox.grid(row=self.rowCtr, column=0, sticky='ew', padx=5, pady=20, columnspan=2)
 
         self.rowCtr = self.rowCtr + 1

@@ -4,7 +4,7 @@ import time
 
 timestamp = time.strftime("%Y%m%d-%H%M%S")
 
-csvPath = '/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFile.csv'
+csvPath = '/run/user/1000/gvfs/smb-share:server=unraiddog.local,share=family/Jerry/Golf Exports/GSProCombinedFileb2.csv'
 
 df = pd.read_csv(csvPath)
 

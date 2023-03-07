@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css"
+              href="https://cdn.datatables.net/1.13.3/css/jquery.dataTables.min.css">
+        <link rel="stylesheet" type="text/css"
+              href="https://cdn.datatables.net/buttons/2.3.4/css/buttons.dataTables.min.css">
+        <link rel="stylesheet" type="text/css"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body>
+            <table id="Duplicates" class="table table-striped">
+    <thead>
+        <tr>
+            <th>PracticeDtTm</th>
+            <th>Ball_Speed</th>
+            <th>Side_Spin</th>
+            <th>Back_Spin</th>
+            <th>count(*)</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+                <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://code.jquery.com/jquery-3.5.1.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdn.datatables.net/buttons/2.3.4/js/dataTables.buttons.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdn.datatables.net/buttons/2.3.4/js/buttons.html5.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://cdn.datatables.net/buttons/2.3.4/js/buttons.print.min.js"></script>
+                <script type="text/javascript" charset="utf8"
+                        src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+                <script>
+                        $(document).ready(function () {
+                            $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+                                $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+                            });
+                
+                        $('#datatypes').dataTable( {
+                            "order": [],
+                            dom: 'Bfrtip',
+                            buttons: [
+                                'copy', 'csv', 'excel', 'pdf', 'print'
+                            ],
+                            dom: 'Blfrtip',
+                            "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
+                            columnDefs: [
+                                {className: 'dt-head-center', 'targets': '_all'},
+                                {className: 'dt-nowrap', 'targets': [ 0, 1, 2 ]}
+                            ]
+                    });
+                </script>
+            </body>
+        </html>

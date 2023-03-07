@@ -15,6 +15,7 @@ class Controller:
         self.ball_list = self.model.ball_list
         self.action = None
 
+
         # link the view
         self.view.select_file_button.config(command=self.select_input_file)
         self.view.select_folder_button.config(command=self.select_input_folder)
@@ -48,7 +49,7 @@ class Controller:
         self.archive_input_csv_file()
         self.display_output_messages()
 
-        messagebox.showinfo("Info", "Script complete")
+        messagebox.showinfo("Info", "Script complete\n")
         return
 
     def main_folder(self):
@@ -60,12 +61,15 @@ class Controller:
         self.archive_history_files()
 
         for filename in os.listdir(self.model.input_folder_path):
-            activeFileMsg = f'Active file: {self.model.input_file_path}'
+            self.model.total_ctr = self.model.total_ctr + 1
+            print(f'filename: {filename}')
+            activeFileMsg = f'\nActive file: {self.model.input_file_path}'
             self.view.results_text_box.insert('end', activeFileMsg )
             print(activeFileMsg)
             if os.path.splitext(filename)[1] != ".csv":
-                errMsg = f'Active file: {filename} is NOT a csv.  SKIPPING'
+                errMsg = f'\nActive file: {filename} is NOT a csv.  SKIPPING'
                 self.view.results_text_box.insert('end', errMsg)
+                self.model.failed_ctr = self.model.failed_ctr + 1
                 messagebox.showwarning("Warning", errMsg)
                 continue
 
@@ -74,23 +78,33 @@ class Controller:
 
             if status != False:
                 # self.model.create_output_file()
-                self.build_output_files()
+                res = self.build_output_files()
+                if res == False:
+                    self.model.failed_ctr = self.model.failed_ctr + 1
+                    continue
+
+                self.model.success_ctr = self.model.success_ctr + 1
                 self.archive_input_csv_file()
                 self.display_output_messages()
+
+        self.model.create_html_combo_view()
 
         messagebox.showinfo("Info", "Script complete")
 
         return
 
+
     def build_output_files(self):
         # Build and create output, html & db files
         res = self.model.create_output_file()
+        if res == False:
+            return
         self.view.results_text_box.insert('end', res)
         res = self.model.create_html_file()
         self.view.results_text_box.insert('end', res)
         res = self.model.create_db_file()
         self.view.results_text_box.insert('end', res)
-        res = self.model.create_html_views()
+        res = self.model.create_views()
         self.view.results_text_box.insert('end', res)
     def archive_history_files(self):
         # Create archive dir if they don't exists
@@ -112,6 +126,9 @@ class Controller:
 
     def display_output_messages(self):
         # Display script complete message
+
+        ctr_msg = f"Total Files Proccess: {self.model.total_ctr}\nSuccessful files added: {self.model.success_ctr}\nDuplicate files: {self.model.duplicate_ctr}\nFAILED files not added: {self.model.failed_ctr}\n\n"
+        self.view.results_text_box.insert('end', ctr_msg)
         self.view.results_text_box.insert('end', 'Script Complete')
         self.view.results_text_box.see('end')
 
@@ -131,7 +148,7 @@ class Controller:
         self.action = 'file'
 
     def select_input_folder(self):
-        self.model.input_folder_path = filedialog.askdirectory()
+        self.model.input_folder_path = filedialog.askdirectory(initialdir=self.model.default_input_csv_folder)
         self.view.input_file_or_folder_path_entrybox.delete(0, 'end')
         self.view.input_file_or_folder_path_entrybox.insert(0, self.model.input_folder_path)
         self.action = 'folder'
