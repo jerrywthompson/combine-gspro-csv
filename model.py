@@ -230,8 +230,9 @@ class Model:
             os.makedirs('views')
         # connect to the SQLite database
         conn = sqlite3.connect(self.db_file_path)
-
+        tab_ctr = 0
         for sql_file in os.listdir('sql/'):
+            tab_ctr += 1
             # Open the SQL file and read the query from it
             try:
                 with open(f'sql/{sql_file}', 'r') as f:
@@ -246,6 +247,7 @@ class Model:
             # create a pretty table from the query results
             table = from_db_cursor(cursor)
             filename = sql_file[:-4]
+            table.title = filename
             # print(f'View filename: {filename}')
             csv_view_file_path = f'views/{filename}.csv'
             with open(csv_view_file_path, 'w') as f:
@@ -263,31 +265,38 @@ class Model:
                 f.write(html_footer)
 
 
-            if self.total_ctr == 1:
+            if tab_ctr == 1:
+                self.html_combo_table_tab_body = self.html_combo_table_tab_body + f"""
+                <li class='active'>
+                    <a href='#tab-{filename}' data-toggle='tab'>{filename}</a>
+                </li>"""
+
+                self.html_combo_table_prefix = \
+                    f"""
+                <div class ='tab-pane active' id='tab-{filename}'>\n"""
+
+            else:
                 self.html_combo_table_tab_body = self.html_combo_table_tab_body + f"""
                 <li>
                     <a href='#tab-{filename}' data-toggle='tab'>{filename}</a>
                 </li>"""
 
                 self.html_combo_table_prefix = \
-                f"""
-                <p>
-                    {filename}
-                </p>
-                </div>
-                    <div class ='tab-pane' id='tab-{filename}'>\n"""
+                    f"""
+                <div class ='tab-pane' id='tab-{filename}'>\n"""
 
             html_combo_table_suffix = \
                 f"""
+                </div>
             """
 
-        self.html_combo_tables = self.html_combo_tables + self.html_combo_table_prefix + html_table + html_combo_table_suffix
+            self.html_combo_tables = self.html_combo_tables + self.html_combo_table_prefix + "\t\t\t" + html_table + html_combo_table_suffix
 
         return 'CSV Views created|\n'
 
     def create_html_combo_view(self):
 
-        html_combo_table_tab_prefix = f"""            
+        html_combo_table_tab_prefix = f"""           
         <ul class='nav nav-tabs' role='tablist'>"""
 
         html_combo_table_tab_suffix = f"""</ul>
@@ -388,6 +397,7 @@ class Model:
 
     def get_footer(self):
         self.html_footer = """
+        </div>
                 <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
                 <script type="text/javascript" charset="utf8"
                         src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
@@ -415,19 +425,20 @@ class Model:
                                 $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
                             });
                 
-                        $('#datatypes').dataTable( {
-                            "order": [],
-                            dom: 'Bfrtip',
-                            buttons: [
-                                'copy', 'csv', 'excel', 'pdf', 'print'
-                            ],
-                            dom: 'Blfrtip',
-                            "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
-                            columnDefs: [
-                                {className: 'dt-head-center', 'targets': '_all'},
-                                {className: 'dt-nowrap', 'targets': [ 0, 1, 2 ]}
-                            ]
-                    });
+                            $('table.table').dataTable( {
+                                "order": [],
+                                dom: 'Bfrtip',
+                                buttons: [
+                                    'copy', 'csv', 'excel', 'pdf', 'print'
+                                ],
+                                dom: 'Blfrtip',
+                                "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
+                                columnDefs: [
+                                    {className: 'dt-head-center', 'targets': '_all'},
+                                    {className: 'dt-nowrap', 'targets': [ 0, 1, 2 ]}
+                                ]
+                            });
+                        });
                 </script>
             </body>
         </html>"""

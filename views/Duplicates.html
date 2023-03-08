@@ -9,6 +9,7 @@
     </head>
     <body>
             <table id="Duplicates" class="table table-striped">
+    <caption>Duplicates</caption>
     <thead>
         <tr>
             <th>PracticeDtTm</th>
@@ -21,6 +22,7 @@
     <tbody>
     </tbody>
 </table>
+        </div>
                 <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
                 <script type="text/javascript" charset="utf8"
                         src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
@@ -48,19 +50,20 @@
                                 $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
                             });
                 
-                        $('#datatypes').dataTable( {
-                            "order": [],
-                            dom: 'Bfrtip',
-                            buttons: [
-                                'copy', 'csv', 'excel', 'pdf', 'print'
-                            ],
-                            dom: 'Blfrtip',
-                            "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
-                            columnDefs: [
-                                {className: 'dt-head-center', 'targets': '_all'},
-                                {className: 'dt-nowrap', 'targets': [ 0, 1, 2 ]}
-                            ]
-                    });
+                            $('table.table').dataTable( {
+                                "order": [],
+                                dom: 'Bfrtip',
+                                buttons: [
+                                    'copy', 'csv', 'excel', 'pdf', 'print'
+                                ],
+                                dom: 'Blfrtip',
+                                "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
+                                columnDefs: [
+                                    {className: 'dt-head-center', 'targets': '_all'},
+                                    {className: 'dt-nowrap', 'targets': [ 0, 1, 2 ]}
+                                ]
+                            });
+                        });
                 </script>
             </body>
         </html>

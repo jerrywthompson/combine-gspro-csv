@@ -78,7 +78,7 @@ class Controller:
 
             if status != False:
                 # self.model.create_output_file()
-                res = self.build_output_files()
+                res = self.build_output_csv_file()
                 if res == False:
                     self.model.failed_ctr = self.model.failed_ctr + 1
                     continue
@@ -87,24 +87,27 @@ class Controller:
                 self.archive_input_csv_file()
                 self.display_output_messages()
 
-        self.model.create_html_combo_view()
+        self.build_output_views()
 
         messagebox.showinfo("Info", "Script complete")
 
         return
 
 
-    def build_output_files(self):
+    def build_output_csv_file(self):
         # Build and create output, html & db files
         res = self.model.create_output_file()
         if res == False:
             return
         self.view.results_text_box.insert('end', res)
+    def build_output_views(self):
         res = self.model.create_html_file()
         self.view.results_text_box.insert('end', res)
         res = self.model.create_db_file()
         self.view.results_text_box.insert('end', res)
         res = self.model.create_views()
+        self.view.results_text_box.insert('end', res)
+        res = self.model.create_html_combo_view()
         self.view.results_text_box.insert('end', res)
     def archive_history_files(self):
         # Create archive dir if they don't exists
